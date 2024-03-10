@@ -1,0 +1,40 @@
+Input: Begin Again
+
+Top 5 recommended songs:
+State Of Grace - Acoustic
+Better Man
+Come Back...Be Here
+I Know Places - Voice Memo
+Treacherous - Original Demo Recording
+
+Song                                    Album                                            Similarity Score    
+State Of Grace - Acoustic               Red (Deluxe Edition)                             0.98                
+Better Man                              reputation Stadium Tour Surprise Song Playlist   0.97                
+Come Back...Be Here                     reputation Stadium Tour Surprise Song Playlist   0.97                
+I Know Places - Voice Memo              1989 (Deluxe Edition)                            0.97                
+Treacherous - Original Demo Recording   Red (Deluxe Edition)                             0.97                
+
+
+
+
+
+Input: cardigan
+
+Top 5 recommended songs:
+Fearless - Live From Clear Channel Stripped 2008
+the 1 - the long pond studio sessions
+Hey Stephen
+Sparks Fly - Live/2011
+All Too Well (Taylor's Version)
+
+Song                                               Album                                                                                 Similarity Score    
+Fearless - Live From Clear Channel Stripped 2008   Live From Clear Channel Stripped 2008                                                 1.00                
+the 1 - the long pond studio sessions              folklore: the long pond studio sessions (from the Disney+ special) [deluxe edition]   1.00                
+Hey Stephen                                        reputation Stadium Tour Surprise Song Playlist                                        1.00                
+Sparks Fly - Live/2011                             Speak Now World Tour Live                                                             1.00                
+All Too Well (Taylor's Version)                    Red (Taylor's Version)                                                                1.00                
+
+
+
+
+
