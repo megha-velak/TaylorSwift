@@ -2,7 +2,6 @@
 A Taylor Swift song recommender!
 
 
-
 Dataset
 
 Source: https://www.kaggle.com/datasets/jarredpriester/taylor-swift-spotify-dataset?select=taylor_swift_spotify.csv
