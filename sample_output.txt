@@ -42,3 +42,41 @@ All Too Well (Taylor's Version)                    Red (Taylor's Version)       
 
 Recommender 2:
 
+Recommended Song Titles based on "Begin Again": 
+
+Begin Again (Taylor's Version)
+...Ready for It?
+We Are Never Ever Getting Back Together (Taylor's Version)
+Tim McGraw
+If This Was a Movie (Taylor's Version)
+
+Song                                                         Album                                          Similarity Score     
+Begin Again (Taylor's Version)                               Red (Taylor's Version)                         0.91                 
+...Ready for It?                                             reputation                                     0.17                 
+We Are Never Ever Getting Back Together (Taylor's Version)   Red (Taylor's Version)                         0.15                 
+Tim McGraw                                                   Taylor Swift                                   0.14                 
+If This Was a Movie (Taylor's Version)                       The More Fearless (Taylor's Version) Chapter   0.12                 
+
+
+
+
+
+Recommended Song Titles based on "cardigan": 
+
+If This Was a Movie (Taylor's Version)
+Only The Young
+The Moment I Knew (Taylor's Version)
+hoax
+Mary's Song (Oh My My My)
+
+Song                                     Album                                          Similarity Score     
+If This Was a Movie (Taylor's Version)   The More Fearless (Taylor's Version) Chapter   0.24                 
+Only The Young                           nan                                            0.21                 
+The Moment I Knew (Taylor's Version)     Red (Taylor's Version)                         0.19                 
+hoax                                     folklore (deluxe version)                      0.14                 
+Mary's Song (Oh My My My)                Taylor Swift                                   0.13                 
+
+
+
+
+
