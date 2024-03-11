@@ -2,7 +2,7 @@
 A Taylor Swift song recommender!
 
 
-Dataset
+Dataset for recommender 1:
 
 Source: https://www.kaggle.com/datasets/jarredpriester/taylor-swift-spotify-dataset?select=taylor_swift_spotify.csv
 
@@ -41,6 +41,20 @@ tempo - The overall estimated tempo of a track in beats per minute (BPM). In mus
 valence - A measure from 0.0 to 1.0 describing the musical positiveness conveyed by a track. Tracks with high valence sound more positive (e.g. happy, cheerful, euphoric), while tracks with low valence sound more negative (e.g. sad, depressed, angry).
 
 popularity - the popularity of the song from 0 to 100
+
+
+
+
+
+Dataset for recommender 2:
+
+https://www.kaggle.com/datasets/madroscla/taylor-swift-released-song-discography-genius
+
+This dataset consists of data from Genius and contains information on all released songs by Taylor Swift. Scraping was done via Parsel and the accuracy of the data is up to Genius' discretion.
+
+
+
+
 
 duration_ms - The duration of the track in milliseconds.
 
